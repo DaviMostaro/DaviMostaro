@@ -45,9 +45,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40em" width="40em" alt="nodejs logo"  />
   <img width="12em" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em" width="40em" alt="css3 logo"  />
-  <img width="12em" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40em" width="40em" alt="firebase logo"  />
   <img width="12em" />
@@ -56,8 +53,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40em" width="40em" alt="git logo"  />
   <img width="12em" />
-  
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40em" width="40em" alt="mongodb logo"  />
   <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40em" width="40em" alt="mysql logo"  />
