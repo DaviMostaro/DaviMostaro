@@ -42,7 +42,15 @@
   <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40em" width="40em" alt="typescript logo"  />
   <img width="12em" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40em" alt="react logo"  />
+  <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40em" width="40em" alt="nodejs logo"  />
+  <img width="12em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40em" width="40em" alt="html5 logo"  />
+  <img width="12em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em" width="40em" alt="css3 logo"  />
+  <img width="12em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40em" width="40em" alt="tailwindcss logo"  />
   <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40em" width="40em" alt="firebase logo"  />
   <img width="12em" />
@@ -57,8 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40em" width="40em" alt="nextjs logo"  />
   <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40em" width="40em" alt="postgresql logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40em" alt="react logo"  />
   <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40em" width="40em" alt="docker logo"  />
   <img width="12em" />
