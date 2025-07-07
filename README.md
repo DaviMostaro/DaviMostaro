@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DaviMostaro/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hello Everyone👋</h1>
 
 ###
