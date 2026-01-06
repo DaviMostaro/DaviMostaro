@@ -23,7 +23,14 @@
 
 ###
 
-<h6 align="left">Olá a todos, me chamo Davi Souza Mostaro, Tenho 19 anos e atualmente estou cursando Ciência da Computação na UFJF. Estudo programação a mais de 1 ano e tenho experiência com projetos usando HTML, CSS, TypeScript, React, Node.js, Prisma, PostgreSQL e muito mais.</h6>
+<h6 align="left">Olá a todos, me chamo Davi Souza Mostaro, Tenho 20 anos e atualmente estou cursando Ciência da Computação na UFJF. Estudo programação a mais de 2 anos e tenho experiência com projetos usando HTML, CSS, TypeScript, React, Node.js, Prisma, PostgreSQL e muito mais.
+
+Caso queira dar uma olhada melhor nos meus trabalhos acesse meu portfólio:
+</h6>
+
+<a href="https://davimostaro-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge" />
+</a>
 
 ###
 
