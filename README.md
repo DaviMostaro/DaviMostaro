@@ -43,6 +43,8 @@ Caso queira dar uma olhada melhor nos meus trabalhos, acesse meu portfólio:
   <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40em" width="40em" alt="typescript logo"  />
   <img width="12em" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40em" width="40em" alt="python logo"  />
+  <img width="12em" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40em" alt="react logo"  />
   <img width="12em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40em" width="40em" alt="nodejs logo"  />
