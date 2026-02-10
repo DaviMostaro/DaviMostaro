@@ -23,7 +23,7 @@
 
 ###
 
-<h5 align="left">Olá a todos, me chamo Davi Souza Mostaro, tenho 20 anos e atualmente estou cursando Ciência da Computação na UFJF. Estudo programação a mais de 2 anos, sou formado pelo curso da B7web e tenho experiência com projetos usando HTML, CSS, TypeScript, React, Node.js, Next.js, Prisma, PostgreSQL e muito mais.
+<h5 align="left">Olá a todos, me chamo Davi Souza Mostaro, tenho 20 anos e atualmente estou cursando Ciência da Computação na UFJF. Estudo programação a mais de 2 anos, sou formado pelo curso da B7web e tenho experiência com projetos usando TypeScript, Node.js, Python, Next.js, Prisma, PostgreSQL e Docker.
 
 Caso queira dar uma olhada melhor nos meus trabalhos, acesse meu portfólio:
 </h5>
